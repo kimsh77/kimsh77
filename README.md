@@ -1,5 +1,4 @@
-### Hi there 👋  
-My major is English Education :exclamation:
+## My major is English Education :exclamation:
 
 <!--
 **kimsh77/kimsh77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
