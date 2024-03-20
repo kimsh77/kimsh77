@@ -1,6 +1,7 @@
 ### :satisfied: Welcome to my github. (since Mar. 11, 2024)
 ---
 + My major is English Education.
++ This class is Digital Literacy and English Education.
 
 <!--
 **kimsh77/kimsh77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
