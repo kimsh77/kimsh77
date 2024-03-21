@@ -1,4 +1,4 @@
-### :satisfied: Welcome to my github. (since Mar. 11, 2024)
+### :bouquet: Welcome to my github. (since Mar. 11, 2024)
 ---
 + My major is English Education.
 + This class is Digital Literacy and English Education.
